@@ -7,3 +7,6 @@ In this project i'm using GSAP to showcase an apartment
 * JavaScript
 * GSAP
 * JQuery
+
+
+All required files are available just clone or download zip
