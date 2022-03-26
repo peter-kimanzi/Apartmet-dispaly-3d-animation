@@ -8,6 +8,7 @@ In this project i'm using GSAP library to showcase an apartment
 * GSAP
 * JQuery
 
+All required files are available just clone or download zip
 
 
 # Live website can be viewed here
