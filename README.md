@@ -15,7 +15,7 @@ All required files are available just clone or download zip
 https://peter-kimanzi.github.io/Apartmet-dispaly-3d-animation/
 
 
-# Feel free to contribute and fork this project
+
 
 
 ## Enjoy!!
