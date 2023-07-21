@@ -1,7 +1,7 @@
 # Apartmet-dispaly-3d-animation
 
 
-In this project i'm using GSAP library to showcase an apartment
+In this project i'm using GSAP library to showcase an apartment.
 
 # technologies used
 * HTML CSS
